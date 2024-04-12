@@ -1,31 +1,27 @@
-# V3locidad: Hacker Éthique & Passionné de Cybersécurité 🛡️🔍
+# V3locidad: Ethical Hacker 🛡️
 
-Salut ! Je suis Julien, un hacker éthique et passionné de cybersécurité. Actuellement étudiant en cybersécurité, je suis toujours à la recherche de nouveaux défis à relever dans le domaine de la sécurité informatique. 🌐💡
+Hello! I'm Julien, an ethical hacker passionate about cybersecurity. As a cybersecurity student, I'm constantly seeking new challenges in the vast field of information security. My goal is to leverage my skills to enhance system security and contribute to a safer cyber space for everyone. 🔒🔍
 
 [![GitHub Followers](https://img.shields.io/github/followers/V3locidad?style=social)](https://github.com/V3locidad)
 [![Twitter Follow](https://img.shields.io/twitter/follow/V3locidad_?style=social)](https://twitter.com/V3locidad_)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/julien-v3locidad)
 
-## 🛠️ Compétences & Langages
+## 🚀 Skills
 
-**Langage Principal:** Python 
+**Primary Language:** Python 
 
-**Outils de Hacking:** Metasploit, Burp Suite, Wireshark, Nmap,  
+**Hacking Tools:** Metasploit, Burp Suite, Wireshark, Nmap 
 
-**Systèmes d'Exploitation:** MacOS, Windows, Linux  
+**Operating Systems:** MacOS, Windows, Linux  
 
-## 📚 Projets
+## ⚠️ Vulnerability Discoveries (CVE)
 
-Sur ce compte GitHub, vous trouverez toutes mes découvertes concernant la cybersécurité ! 🔍
-
-## 🚨 Contributions CVE
-
-J'ai contribué à l'identification et à la documentation de plusieurs CVE. Voici une liste des CVE sur lesquels j'ai travaillé :
+I have contributed to identifying and documenting several CVEs. Here's a list of CVEs I've worked on:
 
 - [CVE-2024-31705](https://github.com/V3locidad/GLPI_POC_Plugins_Shell) : RCE via Shell Commands "Plugin / GLPI Shell Command Management Interface"
 
-## 📬 Me Contacter
+## 📬 Contact Me
 
-N'hésitez pas à me contacter sur les réseaux sociaux ou par email :
+Feel free to contact me on social media or via email:
 
 📧 Email: v3locidad@v3locidad.com
