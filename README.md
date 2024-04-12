@@ -8,7 +8,7 @@ Salut ! Je suis Julien, un hacker éthique et passionné de cybersécurité. Act
 
 ## 🛠️ Compétences & Langages
 
-**Langage Principal:** Python 🐍 
+**Langage Principal:** Python 
 
 **Outils de Hacking:** Metasploit, Burp Suite, Wireshark, Nmap,  
 
@@ -22,7 +22,7 @@ Sur ce compte GitHub, vous trouverez toutes mes découvertes concernant la cyber
 
 J'ai contribué à l'identification et à la documentation de plusieurs CVE. Voici une liste des CVE sur lesquels j'ai travaillé :
 
-- CVE-2024-31705: RCE via Shell Commands "Plugin / GLPI Shell Command Management Interface"
+- [CVE-2024-31705]([https://github.com/V3locidad/GLPI_POC_Plugins_Shell]) : RCE via Shell Commands "Plugin / GLPI Shell Command Management Interface"
 
 ## 📬 Me Contacter
 
