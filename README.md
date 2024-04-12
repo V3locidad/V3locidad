@@ -2,8 +2,8 @@
 
 Salut ! Je suis Julien, un hacker éthique et passionné de cybersécurité. Actuellement étudiant en cybersécurité, je suis toujours à la recherche de nouveaux défis à relever dans le domaine de la sécurité informatique. 🌐💡
 
-[![GitHub Followers](https://img.shields.io/github/followers/david-hacker?style=social)](https://github.com/V3locidad)
-[![Twitter Follow](https://img.shields.io/twitter/follow/david_hacker?style=social)](https://twitter.com/V3locidad_)
+[![GitHub Followers](https://img.shields.io/github/followers/V3locdida?style=social)](https://github.com/V3locidad)
+[![Twitter Follow](https://img.shields.io/twitter/follow/V3locidad_?style=social)](https://twitter.com/V3locidad_)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/julien-v3locidad)
 
 ## 🛠️ Compétences & Langages
