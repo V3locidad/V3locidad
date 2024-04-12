@@ -9,7 +9,9 @@ Salut ! Je suis Julien, un hacker éthique et passionné de cybersécurité. Act
 ## 🛠️ Compétences & Langages
 
 **Langage Principal:** Python 🐍 
+
 **Outils de Hacking:** Metasploit, Burp Suite, Wireshark, Nmap,  
+
 **Systèmes d'Exploitation:** MacOS, Windows, Linux  
 
 ## 📚 Projets
